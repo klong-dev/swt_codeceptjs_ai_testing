@@ -1,5 +1,8 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="148" alt="Nest Logo" /></a>
+</p>
+
 Here's a sample `README.md` for your GitHub repository:
-![Codeceptjs Logo]([https://github.com/klong-dev/swt_codeceptjs_ai_testing/images/screenshot.png](https://avatars.githubusercontent.com/u/54646432?s=280&v=4))
 ---
 ## Features
 
