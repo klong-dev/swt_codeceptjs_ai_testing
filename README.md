@@ -1,5 +1,5 @@
 Here's a sample `README.md` for your GitHub repository:
-
+![Codeceptjs Logo]([https://github.com/klong-dev/swt_codeceptjs_ai_testing/images/screenshot.png](https://avatars.githubusercontent.com/u/54646432?s=280&v=4))
 ---
 ## Features
 
@@ -60,7 +60,6 @@ Scenario('test something',  ({ I }) => {
 This repository is a template for automating web testing using **CodeceptJS** and **AI Testing**. The goal of this project is to integrate intelligent testing practices into a web application's testing workflow, allowing for efficient and reliable end-to-end testing.
 
 
-  
 ## Getting Started
 
 ### Prerequisites
