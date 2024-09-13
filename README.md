@@ -21,6 +21,10 @@ npx codeceptjs init // create main config file: codecept.conf.js
 
 ## Setup AI-Tesing
 ```bash
+// install AI SDK
+npm install groq-sdk // you can choose others one
+
+// At codeceptjs.conf.js
 ai: { // Add this property to use ai plugin
     request: async (messages) => {
       const Groq = require("groq-sdk");
