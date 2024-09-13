@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://nestjs.com/img/logo-small.svg](https://avatars.githubusercontent.com/u/54646432?s=148&v=4)" width="148" alt="Nest Logo" />
+  <img src="https://codecept.io/logo.svg" width="148" alt="Nest Logo" />
 </p>
 
 Here's a sample `README.md` for your GitHub repository:
